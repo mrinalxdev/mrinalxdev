@@ -58,6 +58,7 @@ src="https://img.shields.io/twitter/follow/Hi_Mrinal?logo=twitter&style=for-the-
 
 <a href="https://github.com/mrinalxdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinalxdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<a href="https://github-profile-trophy.vercel.app/?mrinalxdev=ryo-ma&theme=darkhub" align="center">
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/mrinalpramanick"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
