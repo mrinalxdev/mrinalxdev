@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Talk Time](https://github.com/mrinalxdev/talk-time)  
 
-- 🔭 I’m currently working on [ProxyDown](https://github.com/mrinalxdev/talk-time)  
+- 🔭 I’m currently working on [ProxyDown](https://github.com/mrinalxdev/ProxyDown)  
   
 
 - 🌱 I’m currently learning Modern Python GUI's  
