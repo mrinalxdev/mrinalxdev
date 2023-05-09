@@ -1,7 +1,7 @@
 ### <div align="center">Hi I am Mrinal Pramanick</div>  
   
 
-- 🔭 I’m currently working on [Link Tree Clone](link-tree-mrinalxdev.vercel.app/)  
+- 🔭 I’m currently working on [Talk Time](https://github.com/mrinalxdev/talk-time)  
   
 
 - 🌱 I’m currently learning Modern Python GUI's  
@@ -93,11 +93,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
