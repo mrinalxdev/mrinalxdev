@@ -1,7 +1,7 @@
 ### <div align="center">Hi I am Mrinal Pramanick</div>  
   
 
-- 🔭 I’m currently working on [Talk Time](https://github.com/mrinalxdev/talk-time) && [Taskmaster](https://github.com/mrinalxdev/taskmaster)
+- 🔭 I’m currently working on [Stories](https://github.com/mrinalxdev/stories) && [Taskmaster](https://github.com/mrinalxdev/taskmaster)
   
 
 - 🌱 I’m currently learning Modern Python GUI's  
