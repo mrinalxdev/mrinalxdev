@@ -1,7 +1,7 @@
 ### <div align="center">Hi I am Mrinal Pramanick</div>  
   
 
-- 🔭 I’m currently working on [APIVerse](https://github.com/mrinalxdev/APIVerse) && [Taskmaster](https://github.com/mrinalxdev/taskmaster)
+- 🔭 I’m currently working on [ApiVerse](https://github.com/mrinalxdev/APIVerse) && [SocialDev](https://github.com/mrinalxdev/socialdev)
   
 
 - 🌱 I’m currently learning Modern Python GUI's  
