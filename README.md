@@ -1,7 +1,7 @@
 ### <div align="center">Hi I am Mrinal Pramanick</div>  
   
 
-- 🔭 I’m currently working on [SchoolDevs] a platform to teach school students
+- 🔭 I’m currently working on SchoolDevs a platform to teach school students
   
 
 - 🌱 I’m currently learning Modern Python GUI's  
