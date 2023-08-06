@@ -1,10 +1,10 @@
 ### <div align="center">Hi I am Mrinal Pramanick</div>  
   
 
-- 🔭 I’m currently working on SchoolDevs a platform to teach school students
+- 🔭 I’m currently working on [Chirp](https://github.com/mrinalxdev/chirp) a platform to teach school students
   
 
-- 🌱 I’m currently learning Modern Python GUI's  
+- 🌱 I’m currently learning Django.
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
