@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Chirp](https://github.com/mrinalxdev/chirp) a platform to teach school students
   
 
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning Django and Docker 💻
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
