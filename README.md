@@ -1,6 +1,6 @@
 ## Hi, I am Mrinal !!
 # Full Stack | Rust | Golang Developer
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="giphy.webp" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div></p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="giphy.webp" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div></p>
 
 A cracked head developer, in love with building epic stuffs and shipping it to show the world !! Hacking projects in Rust, Golang and probably JavaScript
 
