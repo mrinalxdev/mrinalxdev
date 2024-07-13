@@ -1,6 +1,5 @@
-<div style="text-align:center;">
-Hi, I am Mrinal !! <br />
-<font size="6">Full Stack | Rust | Golang Developer</font></div>
+
+# Full Stack | Rust | Golang Developer
 
 <img src="giphy 3.webp" style="text-align:center;"></img>
 
